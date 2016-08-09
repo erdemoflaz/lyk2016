@@ -16,7 +16,7 @@ Linux Yaz Kampı 2016 Web Uygulama Güvenliği ve Güvenli Kod Geliştirme Kursu
 
 #### <i class="icon-user"></i> Katılımcılar
 * [Kadir Kurt](http://github.com/kadirkurt)
-* Erdem Oflaz(http://github.com/)
+* [Erdem Oflaz](http://github.com/erdemoflaz)
 * Zeynep Yurt(http://github.com/)
 * Ahmet Erşin(http://github.com/)
 * Sertunç Selen(http://github.com/)
